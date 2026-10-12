@@ -4,18 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Projektname
+# Netzwerk-Etikettendrucker
 
-## Erklärende Unterzeile (optional)
+**Dieser Etikettendrucker für die offene Werkstatt braucht weder App noch Login. Man füllt einfach ein Webformular am Handy aus und holt sein Etikett am Gerät ab. Ein E-Paper-Display mit wechselndem QR-Code stellt dabei sicher, dass Aufträge nur am Gerät ausgelöst werden können.**
 
-**Vorspann aus dem Heft**
+![Aufmacherbild aus dem Heft](./doc/etikettendrucker_quer.jpg)
 
-![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
+Hier findet ihr den im Artikel erwähnten Ordner "docs", den ihr für die Web-App braucht, den Ordner "pi" und Vektor-Grafiken, um das Gehäuse zu lasern.
 
-## Wer den Aufmacher skalieren muss:
-<img src="./doc/Aufmacher.JPG" width="50%" height="50%">
-
-Hier gibt es !!! ein Template für die README.md in Github. Das Aufmacherbild sowie weitere Doku soll in den Ordner _doc_. Bitte für andere Dateien sinnvolle Ordner anlegen, etwa _src_ oder _cad_.
-ISSUES UND WIKI DEAKTIVIEREN NICHT VERGESSEN.
-
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe x/yy ab Seite z](https://www.heise.de/select/make/xxx)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/26](https://www.heise.de/select/make/2026/6)**.
