@@ -10,6 +10,6 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./doc/etikettendrucker_quer.jpg)
 
-Hier findet ihr den im Artikel erwähnten Ordner "docs", den ihr für die Web-App braucht, den Ordner "EasyLabelPrinting" und Vektor-Grafiken, um das Gehäuse zu lasern.
+Hier findet ihr den im Artikel erwähnten Ordner "docs", den ihr für die Web-App braucht, den Ordner "EasyLabelPrinting" und eine Vektor-Grafik, um das Gehäuse zu lasern.
 
 Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 6/26](https://www.heise.de/select/make/2026/6)**.
